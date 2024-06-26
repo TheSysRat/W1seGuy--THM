@@ -2,9 +2,11 @@
 Decrypt script for THM [TryhackMe] challange W1seGuy
 
 ## Run >
+```
 git clone https://github.com/TheSysRat/W1seGuy--THM
 cd W1seGuy--THM
 python3 w1seguy.py
+```
 
 ## Enjoy
 ;-)
